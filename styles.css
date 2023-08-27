@@ -75,3 +75,100 @@
     font-size: 16px;
     font-style: normal;
 }
+
+/* Section 2 and div 2 */
+.div2{
+    display: flex;
+    background: #FFF;
+    margin-top: 40px;
+    margin-left: 200px;
+}
+.font2{
+    color: var(--dark-01, #151414);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+}
+.div2-1{
+    margin: 56px;
+    background: #FFF;
+}
+.font3{
+    margin-top: 20px;
+    color: var(--dark-01, #151414);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 30px;
+    font-style: normal;
+}
+.para2{
+    margin-top: 5px;
+    color: var(--dark-03, #737272);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+}
+
+.div2-2{
+    margin: 56px;
+    background: #FFF;
+}
+.font4{
+    margin-top: 20px;
+    color: var(--dark-01, #151414);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 30px;
+    font-style: normal;
+}
+.para3{
+    margin-top: 5px;
+    color: var(--dark-03, #737272);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+}
+
+.div2-3{
+    margin: 56px;
+    background: #FFF;
+}
+.font5{
+    margin-top: 20px;
+    color: var(--dark-01, #151414);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 30px;
+    font-style: normal;
+}
+.para4{
+    margin-top: 5px;
+    color: var(--dark-03, #737272);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+}
+.div2-4{
+    margin: 56px;
+    background: #FFF;
+}
+.font6{
+    margin-top: 20px;
+    color: var(--dark-01, #151414);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 30px;
+    font-style: normal;
+}
+.para5{
+    margin-top: 5px;
+    color: var(--dark-03, #737272);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+}

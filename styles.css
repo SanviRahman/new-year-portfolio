@@ -1,0 +1,77 @@
+ *{
+    margin: 0px;
+    font-family: 'open Sans',sans-serif;
+
+ }
+ /* Header */
+.header{
+    background-image: url('../new-year-portfolio/images/banner/banner3.png');
+    width: 1600px;
+    height: 808px;
+    flex-shrink: 0;
+}
+.font{
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-style: normal;
+    margin-left: 850px;
+    margin-right: 200px;
+    padding-top: 200px;
+} 
+.para{
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    margin-left: 850px;
+    margin-right: 200px;
+    padding-bottom: 24px;
+}
+.btn{
+    color: #005FAC;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    line-height: normal;
+    margin-left: 1290px;
+}
+/* Section 1 and div 1 */
+.div1{
+    display: flex;
+    background: #FFF;
+}
+.div1-1{
+    margin-top: 80px;
+    margin-left: 200px;
+    width: 451px;
+    height: 898px;
+    flex-shrink: 0;
+}
+.div1-2{
+    margin-top: 260px;
+    margin-left: 250px;
+}
+.font1{
+    color: var(--dark-01, #151414);
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    padding-bottom: 15px;
+}
+.para1{
+    color: var(--dark-02, #444343);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    padding-bottom: 15px;
+}
+.unorder-list{
+    color: var(--dark-02, #444343);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+}

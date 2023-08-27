@@ -212,6 +212,7 @@
 .div4-2{
     margin-left: 250px;
     margin-right: 300px;
+    display:block;
 }
 /* div4-1 */
 #sanvi1{
@@ -254,6 +255,27 @@
     margin-left: 230px;
 }
 /* div4-2 */
-div4-2{
-    display:block;
+.font9{
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+}
+#sanvi{
+    margin-top: 20px;
+    width: 325px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid #FFF;
+}
+.btn2{
+    margin-top: 15px;
+    width: 98.061px;
+    color: #FFF;
+    background-color: blue;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    border-radius: 5px;
 }

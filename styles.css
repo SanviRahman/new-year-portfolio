@@ -200,16 +200,20 @@
 }
 /* Section 3 and div 3 */
 .div3-1{
-    background-image: url('../new-year-portfolio/images/watch.png');
+    background-image: url('../new-year-portfolio/images/gradient1.png'),url('../new-year-portfolio/images/watch.png');
     width: 1140px;
     height: 300px;
     flex-shrink: 0;
     border-radius: 8px;
     margin-left: 250px;
     margin-bottom: 150px;
+ 
+}
+.description{
+    padding: 100px;
 }
 .font7{
-    color:#005FAC;
+    color:#dde6ee;
     font-family: Work Sans;
     font-size: 20px;
     font-style: normal;
